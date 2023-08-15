@@ -1,6 +1,5 @@
 ## Olá eu sou Fábio Peres!
 
-// ![Anurag's GitHub stats](https://github-readme-stats-lmgqbm6dy-peresfabio.vercel.app/api?username=peresfabio&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peresfabio&layout=compact&lang_count=16&theme=dark)](https://github.com/peresfabio/github-readme-stats)
 
 
