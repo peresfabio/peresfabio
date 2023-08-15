@@ -11,7 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1070063097856917627/1070176507655368704/high_detail.png?width=616&height=616">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1141044201732178042/1141044451914039367/binhow_pixel_art_cartoon_as_character_using_jiu_jitsu_gi_c3e50111-5f40-49ee-950c-a0b656913fbb-removebg-preview.png">
 </div>
 
 ##
